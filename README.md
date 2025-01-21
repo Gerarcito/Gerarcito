@@ -1,5 +1,11 @@
-## Hi there 👋
-
+<h1 align = "center">Hi, I'm Gerarg 👋</h1>
+<div align = "center">Currently, I’m working and studying at the same time.<br>
+I’m studying application development to make a career change<br>
+and fully dedicate myself to this field,as I’m passionate about<br>
+technology. Here, I’ll be sharing some of my achievements and<br> 
+milestones in this long journey of learning.
+<blockquote></blockquote>
+A warm greeting to everyone who feels the same, and to those who don’t as well!</div>
 <!--
 **Gerarcito/Gerarcito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
